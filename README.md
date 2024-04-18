@@ -2,6 +2,8 @@
 
 The Weather App is a simple web application that allows users to check the current weather and help them keep tabs on their recent search history.
 
+![Weather App Preview](./public/img/image.png)
+
 ## Table of Contents
 
 - [Weather App](#weather-app)
@@ -85,7 +87,7 @@ The OpenWeatherMap API provides real-time weather data for cities worldwide. By 
 
 ## Demo
 
-<!-- You can preview the live project [here](https://word-cloud-generator-v1.vercel.app/) -->
+You can preview the live project [here](https://weather-app-theta-nine-60.vercel.app/)
 
 ## Features
 
